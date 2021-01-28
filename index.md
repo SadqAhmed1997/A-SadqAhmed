@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SadqAhmed1997/A-SadqAhmed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> A SadqHack </title>
+</head>
+<body>
+<h1> A SadqHack </h1>
+<div ><img src="CydiaIcon.png" alt="" style="width:100px"; > </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="name"><p> سورس رفع الادوات المكركة للتطبيقات</p></div>
 
-### Markdown
+<div><ul class="btns">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<li><div class="cydia"><a href="cydia://url/https://cydia.saurik.com/api/share#?source= https://sadqahmed1997.github.io/A-SadqAhmed/"><button class="cydiabtn">CYDIA</button></a></div></li>
 
-```markdown
-Syntax highlighted code block
+<li><div class="sileo"> <a href="sileo://source/https://sadqahmed1997.github.io/A-SadqAhmed/"><button class="sileobtn">SILEO</button> </a></div></li>
 
-# Header 1
-## Header 2
-### Header 3
+<li><div class="zebra"><a href="zbra://sources/add/https://sadqahmed1997.github.io/A-SadqAhmed//"><button class="zebrabtn">ZEBRA</button> </a></div></li>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SadqAhmed1997/A-SadqAhmed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</ul></div>
+</body>
+</html>
