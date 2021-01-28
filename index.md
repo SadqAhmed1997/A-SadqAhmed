@@ -9,7 +9,8 @@
 <h1> A SadqHack </h1>
 <div ><img src="CydiaIcon.png" alt="" style="width:100px"; > </div>
 
-<div class="name"><p> سورس رفع الادوات المكركة للتطبيقات</p></div>
+<div class="name"><p> سورس رفع الادوات المكركة للتطبيقات 
+Source: Lifting applications blocking tools</p></div>
 
 <div><ul class="btns">
 
